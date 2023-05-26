@@ -1,0 +1,52 @@
+.home5 {
+    width: 100%;
+    height: 80vh;
+    display: flex;
+}
+
+.home5 .left {
+    margin-top: 7%;
+    width: 50%;
+}
+
+.home5 .left img {
+    width: 100%;
+    height: 50vh;
+}
+
+.home5 .right {
+    width: 50%;
+    margin-top: 3%;
+    color: aliceblue;
+}
+
+.home5 .right h1 {
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Lobster', cursive;
+}
+
+.home5 .right form {
+    text-align: center;
+}
+
+.home5 .right form input {
+    width: 70%;
+    padding: 10px;
+    margin: 10px;
+    outline: none;
+}
+
+.home5 .right form textarea {
+    width: 70%;
+    outline: none;
+    padding: 10px;
+    margin: 10px;
+}
+
+.home5 .right form button {
+    padding: 10px 20px;
+    background-color: aliceblue;
+    border: none;
+    cursor: pointer;
+}
